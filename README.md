@@ -1,7 +1,7 @@
-# SpamWA_3
+## SpamWA_3
 Spam (sms,wa,email)+Simi bot menu
 
-# Instalasi
+## Instalasi
 $ pkg update &&  pkg upgrade -y
 $ pkg install git -y
 $ pkg install python && pkg install python2 && pkg install python3 -y
